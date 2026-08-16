@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "scraping-system": {
+      "command": "python",
+      "args": [
+        "mcp_scripts/mcp_server.py"
+      ],
+      "env": {}
+    }
+  }
+}
+
